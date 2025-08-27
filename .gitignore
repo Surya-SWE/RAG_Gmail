@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+auth/credentials/token.json
+rag_gmail.log
+.DS_Store

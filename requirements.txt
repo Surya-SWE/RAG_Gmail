@@ -1,0 +1,16 @@
+# This is the official Python client library for all Google APIs, including Gmail, Sheets, Drive, etc.
+google-api-python-client
+# Adds secure HTTP transport and authentication support required for communication with Google services.
+google-auth-httplib2
+# Provides utilities for OAuth2.0 authentication workflows (the modern, secure way to let users/logins access their Gmail data).
+google-auth-oauthlib
+# Pinecone is a vector database that allows you to store and query high-dimensional vectors, which is useful for applications like semantic search and recommendation systems.
+pinecone
+# For loading environment variables from .env file
+python-dotenv
+# For Replicate API (Llama models in the cloud)
+replicate
+# For making HTTP requests to Ollama
+requests
+# For working with PDF files, including reading and writing
+PyPDF2
